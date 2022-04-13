@@ -1,1 +1,5 @@
 # IPTV-Check
+
+# Requirements
+
+- wget
